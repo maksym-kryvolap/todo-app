@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
-
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- Project - Todo App.
+  - This application allows you to add, remove, filter, and modify task todos.
+- Used technologies:
+  - JavaScript
+  - React
+  - HTML
+  - SCSS
+  - BEM
+- [DEMO LINK](https://maksym-kryvolap.github.io/todo-app/)
