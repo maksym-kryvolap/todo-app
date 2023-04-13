@@ -136,6 +136,7 @@ export function TodoProvider({ children }: { children: React.ReactNode }) {
   };
 
   return (
+    // eslint-disable-next-line react/react-in-jsx-scope
     <TodoContext.Provider value={value}>
       {children}
     </TodoContext.Provider>
